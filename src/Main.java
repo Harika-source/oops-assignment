@@ -12,7 +12,7 @@ public class Main {
         basicMember.displayDetails();
 
         // Display details of the premium membership
-        System.out.println("Premium Membership Details:");
+        System.out.println("Premium Details:");
         premiumMember.displayDetails();
 
 
